@@ -1,3 +1,3 @@
 <?php
-require 'Route.php';
+require 'routes.php';
 ?>
